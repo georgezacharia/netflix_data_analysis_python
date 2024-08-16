@@ -1,4 +1,4 @@
-# Netflix Dataset Analysis
+# Netflix Dataset Analysis With Python
 
 ## Introduction
 This project analyzes a comprehensive Netflix dataset, sourced from Kaggle, to uncover insights into the trends and characteristics of movies and TV shows available on the platform. By exploring various attributes, including categories, types, directors, countries, and content ratings, we aim to provide valuable insights into the streaming landscape.
